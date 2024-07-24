@@ -1,3 +1,5 @@
 /*
 !.gitignore
 !nvim/
+!tmux/
+tmux/plugins/*
